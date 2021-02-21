@@ -1,0 +1,11 @@
+{
+    "python.pythonPath": "env/bin/python",
+    "python.linting.pylintArgs": [
+        "--disable=C0111",
+        "--load-plugins",
+        "pylint_django",
+        "--disable=django-not-configured",],
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "python.linting.pylintUseMinimalCheckers": false,
+}

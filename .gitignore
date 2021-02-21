@@ -1,0 +1,12 @@
+/starter_code_1-models/env/
+/starter_code_1-models/.vscode/*
+/starter_code_1-models/!.vscode/settings.json
+/starter_code_1-models/!.vscode/tasks.json
+/starter_code_1-models/!.vscode/launch.json
+/starter_code_1-models/!.vscode/extensions.json
+/starter_code_1-models/*.code-workspace
+
+# Local History for Visual Studio Code
+/starter_code_1-models/.history/
+__pycache__/
+ *.pyc
